@@ -48,7 +48,7 @@ description: Create AWS Application Load Balancer Custom HTTP Header, 302 Redire
       }]
     },
 ```
-### Step-02-02: Rule-2: Custom Header Rule for App-1
+### Step-02-02: Rule-2: Custom Header Rule for App-2
 - Rule-2: custom-header=my-app-2 should go to App2 EC2 Instances    
 ```t
     # Rule-2: custom-header=my-app-2 should go to App2 EC2 Instances    
